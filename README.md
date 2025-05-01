@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# write the readme file of the project
-
-Certainly! Here’s a professional and comprehensive README file for the [MannheimWMProject](https://github.com/Joon-hub/MannheimWMProject):
-
----
-
 # MannheimWMProject
 
 ## Overview
